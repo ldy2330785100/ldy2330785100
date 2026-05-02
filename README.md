@@ -19,7 +19,7 @@
          style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #24292e; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://cdn.simpleicons.org/github/white" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/Github.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         GitHub
       </a>
     </td>
@@ -27,7 +27,7 @@
       <span style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                    background-color: #07C160; color: white; border-radius: 14px; 
                    font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://cdn.simpleicons.org/wechat/white" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/WeChat.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         微信
       </span>
     </td>
@@ -35,7 +35,7 @@
       <span style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                    background-color: #12B7F5; color: white; border-radius: 14px; 
                    font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://cdn.simpleicons.org/tencentqq/white" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/QQ.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         QQ
       </span>
     </td>
@@ -46,7 +46,7 @@
          style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #FB7299; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://cdn.simpleicons.org/bilibili/white" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/bilibili.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         Bilibili
       </a>
     </td>
@@ -55,7 +55,7 @@
          style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #000000; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://cdn.simpleicons.org/tiktok/white" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img srpngicon/douyin.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         抖音
       </a>
     </td>
@@ -64,7 +64,7 @@
          style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #ff4906; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src="https://ldy2330785100.github.io/ldy/icon/kuaishou.png" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/kuaishou.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         快手
       </a>
     </td>
