@@ -1,7 +1,5 @@
 # <img src="https://ldy2330785100.github.io/ldy/Picture/profile.jpg" width="25" align="center"> LDY
 
----
-
 ## 💼 经历与技能
 
 🛠️ 规划中
