@@ -14,26 +14,28 @@
 
 <table align="center" border="0" cellspacing="8" cellpadding="0">
   <tr align="center">
-    <!-- GitHub -->
     <td>
       <a href="https://github.com/ldy2330785100" target="_blank" 
-         style="display: inline-block; height: 48px; line-height: 48px; padding: 0 20px; 
+         style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #24292e; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/github/white" width="22" height="22" alt="" style="vertical-align: middle;" />
         GitHub
       </a>
     </td>
     <td>
-      <span style="display: inline-block; height: 48px; line-height: 48px; padding: 0 20px; 
+      <span style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                    background-color: #07C160; color: white; border-radius: 14px; 
                    font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/wechat/white" width="22" height="22" alt="" style="vertical-align: middle;" />
         微信
       </span>
     </td>
     <td>
-      <span style="display: inline-block; height: 48px; line-height: 48px; padding: 0 20px; 
+      <span style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                    background-color: #12B7F5; color: white; border-radius: 14px; 
                    font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/tencentqq/white" width="22" height="22" alt="" style="vertical-align: middle;" />
         QQ
       </span>
     </td>
@@ -41,28 +43,28 @@
   <tr align="center">
     <td>
       <a href="https://b23.tv/085t3Ls" target="_blank" 
-         style="display: inline-block; height: 48px; line-height: 48px; padding: 0 20px; 
+         style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #FB7299; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/bilibili/white" width="22" height="22" alt="" style="vertical-align: middle;" />
         Bilibili
       </a>
     </td>
     <td>
       <a href="https://m.douyin.com/share/user/MS4wLjABAAAAlRVshehQoPfD1iLNuyq_lnTXK-BZwTqL6ufkQPEWBtYUepkNvIKtBPNWHQ5pMFer" target="_blank" 
-         style="display: inline-block; height: 48px; line-height: 48px; padding: 0 20px; 
+         style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #000000; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://cdn.simpleicons.org/tiktok/white" width="22" height="22" alt="" style="vertical-align: middle;" />
         抖音
       </a>
     </td>
     <td>
       <a href="https://v.kuaishou.com/JVGv8Fkx" target="_blank" 
-         style="display: inline-flex; align-items: center; justify-content: center; gap: 8px; 
-                height: 48px; padding: 0 20px; background-color: #ff4906; color: white; 
-                border-radius: 14px; text-decoration: none; font-weight: 550; font-size: 0.9rem; 
-                white-space: nowrap;">
-        <img src="https://ldy2330785100.github.io/ldy/icon/kuaishou.png" 
-             width="22" height="22" alt="" style="vertical-align: middle;" />
+         style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
+                background-color: #ff4906; color: white; border-radius: 14px; text-decoration: none; 
+                font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
+        <img src="https://ldy2330785100.github.io/ldy/icon/kuaishou.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         快手
       </a>
     </td>
