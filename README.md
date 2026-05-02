@@ -55,7 +55,7 @@
          style="display: inline-flex; align-items: center; gap: 8px; height: 48px; padding: 0 20px; 
                 background-color: #000000; color: white; border-radius: 14px; text-decoration: none; 
                 font-weight: 550; font-size: 0.9rem; white-space: nowrap;">
-        <img src=''icon/douyin.png" width="22" height="22" alt="" style="vertical-align: middle;" />
+        <img src="icon/douyin.png" width="22" height="22" alt="" style="vertical-align: middle;" />
         抖音
       </a>
     </td>
